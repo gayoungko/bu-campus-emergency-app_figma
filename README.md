@@ -2,7 +2,7 @@
 
 A mobile app concept that helps Boston University students know exactly what to do in an emergency: who to call, where to go and what to take, step by step.
 
-> **Team project.** This was my capstone (Jan–May 2026), built with a team of students in collaboration with a client and project managers. The app is not finished. Our team delivered the research and prototypes, and another team has since taken over the project.
+> **Team project.** This was my capstone (Jan–May 2026), built with teammates **Shiyun Wang** and **Catherine Liu** in collaboration with a client and project managers. The app is not finished. Our team delivered the research and prototypes, and another team has since taken over the project.
 
 ---
 
@@ -72,4 +72,4 @@ Figma · FigJam · User interviews · Affinity mapping · Personas · Journey ma
 
 ---
 
-*Gayoung (Ellena) Ko and capstone team, Boston University, Spring 2026*
+*Gayoung (Ellena) Ko, Shiyun Wang and Catherine Liu, Boston University, Spring 2026*

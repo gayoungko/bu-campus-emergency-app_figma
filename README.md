@@ -2,6 +2,8 @@
 
 A mobile app concept that helps Boston University students know exactly what to do in an emergency: who to call, where to go and what to take, step by step.
 
+**[▶ View the lo-fi and hi-fi designs](https://www.figma.com/design/MIEq2gdYaNyOhz2yXDBNAt/Emergency-App--HI-FI---LO-FI-)**
+
 > **Team project.** This was my capstone through BU Spark! (Jan–May 2026), built with teammates **Shiyun Wang** and **Catherine Liu**. Our clients were **Matthew Walsh** (Director of Strategic Planning & Operations, Boston University) and **David Weidman** (Questrom, Enterprise Risk Management), and we met weekly with a project manager. The app is not finished. Our team delivered the research and prototypes, and another team has since taken over the project.
 
 ---
@@ -65,6 +67,15 @@ The low point is step 2: she spends the most stressful minutes *searching* for i
 - **Protocol workflows.** We translated BU's [publicly available emergency protocols](https://www.bu.edu/safety/campus-safety/safety-response/) into step-by-step workflows for **seven emergency scenarios**.
 - **Sitemap.** We mapped the app's structure and how each emergency scenario connects to its instructions.
 - **Lo-fi to hi-fi prototypes in Figma.** We refined these through user research, client feedback and design presentations, and proposed navigation and notification enhancements along the way.
+
+## Process
+
+| Stage | Artifact |
+| --- | --- |
+| User research | [Interview Workshop](https://www.figma.com/board/yln2reqtTvKf0Ij7mM6FOS/Interview-Workshop) |
+| Synthesis | [Design Research: persona and user journey maps](https://www.figma.com/board/MPPZgWdzQ2rYAzP8YVAmvE/Design-research) |
+| Information architecture | [Sitemap](https://www.figma.com/board/0vUUckrubv6zueL6ta2M9E/Sitemap) |
+| Design | [Lo-fi and hi-fi designs](https://www.figma.com/design/MIEq2gdYaNyOhz2yXDBNAt/Emergency-App--HI-FI---LO-FI-) |
 
 ## Timeline
 
